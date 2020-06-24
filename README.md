@@ -1,7 +1,9 @@
-# linux-world
+# Linux-world
 
-Life is fun with linux
+Linux is open source
 
-If you don't know linux you are missing a lot.
+I enjoyed learning computer
 
-See you when you get back. 
+Linux is a good challenge
+
+Let me know when you get a job. 
